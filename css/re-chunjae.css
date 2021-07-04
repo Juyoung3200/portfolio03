@@ -1522,30 +1522,21 @@
  }
 @media screen and (max-width:1600px) {
      #section04 {
-    padding-top: 100px;
+    padding-top: 30px;
 }
-
- #section04 h2 {
-     margin-top: 100px;
- }
 }
 @media screen and (max-width:1400px) {
      #section04 {
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
- #section04 h2 {
-     margin-top: 100px;
- }
+
 }
 @media screen and (max-width:1280px) {
      #section04 {
     padding-top: 150px;
 }
 
- #section04 h2 {
-     margin-top: 100px;
- }
 }
 
  /*footer*/
