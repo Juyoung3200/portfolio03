@@ -1532,19 +1532,19 @@
 
  @media screen and (max-width:1600px) {
      #section04 {
-         padding-top: 30px;
+         padding-top: 80px;
      }
  }
 
  @media screen and (max-width:1400px) {
      #section04 {
-         padding-top: 80px;
+         padding-top: 70px;
      }
  }
 
  @media screen and (max-width:1280px) {
      #section04 {
-         padding-top: 150px;
+         padding-top: 50px;
      }
 
  }
