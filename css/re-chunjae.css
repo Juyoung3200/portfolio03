@@ -417,7 +417,6 @@
 
  #wrap #section01 {
      width: 100vw;
-     height: 100vh;
      position: relative;
      background-image: url(../img/main-re.jpg);
      background-size: cover;
@@ -476,7 +475,6 @@
      height: 19px;
      background: red;
      opacity: 0.33;
-     ;
      top: 325px;
      margin-left: 293pxpx;
      animation: ani-bg 5s infinite ease-in-out;
@@ -487,7 +485,6 @@
      height: 41px;
      background: #fd6733;
      opacity: 0.5;
-     ;
      top: 208px;
      margin-left: 75px;
      animation: ani-bg 4.6s infinite ease-in-out;
@@ -1346,14 +1343,14 @@
  #section04 {
      width: 100vw;
      height: 100vh;
- }
+}
 
  #section04 h2 {
      text-align: center;
      font-size: 2em;
      font-weight: bold;
      color: #fff;
-     margin-top: 80px;
+     margin-top: 100px;
  }
 
  #section04 h2 > .small-title {
@@ -1523,8 +1520,33 @@
      width: 260px;
      height: 260px;
  }
+@media screen and (max-width:1600px) {
+     #section04 {
+    padding-top: 100px;
+}
 
+ #section04 h2 {
+     margin-top: 100px;
+ }
+}
+@media screen and (max-width:1400px) {
+     #section04 {
+    padding-top: 100px;
+}
 
+ #section04 h2 {
+     margin-top: 100px;
+ }
+}
+@media screen and (max-width:1280px) {
+     #section04 {
+    padding-top: 150px;
+}
+
+ #section04 h2 {
+     margin-top: 100px;
+ }
+}
 
  /*footer*/
  #footer {
